@@ -1,6 +1,3 @@
-var a = 900;
-var b = 75;
-
 function add(a, b) {
   return(a + b);
   }
@@ -20,8 +17,6 @@ function divide(a, b) {
   return(a / b);
   }
 divide();
-
-
 
 function inc(n) {
   return(n + 1);
