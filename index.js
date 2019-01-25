@@ -38,8 +38,6 @@ function makeInt(n) {
   }
 makeInt();
 
-var n = 941.293;
-
 function makeInt(n) {
    return parseInt('n', 10);
   }
