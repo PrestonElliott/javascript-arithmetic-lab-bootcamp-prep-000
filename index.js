@@ -21,7 +21,7 @@ function divide(a, b) {
   }
 divide();
 
-var n = 81;
+
 
 function inc(n) {
   return(n + 1);
